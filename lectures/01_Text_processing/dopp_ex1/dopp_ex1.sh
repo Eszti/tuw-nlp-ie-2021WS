@@ -52,3 +52,15 @@ echo ""
 
 echo "Part II. - Improve solution"
 echo ""
+
+# Extract frequencies for all entites
+# - search for capitalized words and the word folllowing them using "grep -A 1"
+# - substitute lowercase words and lines starting with "--" (introduced by "grep -A") by @
+# - make one line of the whole text and substitute the @-s by new lines, so that all non-empty lines contain a sequence of capitalized words
+# - keep ONLY the first sequence of capitalized words
+# - remove the empty lines, so that all lines contain only entities
+# - TODO: remove suffixes specific to the agglutinative Hungarian language
+# - count the entites and save them to a file
+cat alice_hu_tok.txt | grep -E '^[A-Z][a-z]+' -A 1 | sed 's/\(^[a-z\-]\+\)/@/' | tr "\n" " " | sed 's/@/\n/g' | sed 's/\s*\([A-Za-z\ \-]\+\)\?\(.*\)/\1/' | grep "\S" | sort | uniq -c | sort -nr
+
+# Open problems
