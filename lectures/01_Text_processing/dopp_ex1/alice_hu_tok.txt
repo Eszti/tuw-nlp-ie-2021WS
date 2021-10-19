@@ -443,7 +443,6 @@ elsuhant
 mellette
 .
 
-``
 Nahát
 -
 gondolta
@@ -499,7 +498,6 @@ elég
 valószínű
 .
 )
-''
 
 Alice
 csak
@@ -728,7 +726,6 @@ az
 országot
 .
 
-``
 Néni
 kérem
 ;
@@ -741,7 +738,6 @@ Amerika
 vagy
 Ausztrália
 ?
-''
 
 És
 Alice
@@ -1354,7 +1350,6 @@ az
 ajtón
 .
 
-``
 Aztán
 ha
 a
@@ -1401,7 +1396,6 @@ hogy
 kell
 kezdeni
 .
-''
 
 Mert
 hát
@@ -2018,7 +2012,6 @@ két
 személy
 .
 
-``
 Most
 azonban
 hiába
@@ -2042,7 +2035,6 @@ valamirevaló
 kitelik
 belőlem
 .
-''
 
 Alice
 hirtelen
@@ -2348,7 +2340,6 @@ ahogy
 tudtok
 .
 
-``
 De
 azért
 kedvesnek
@@ -2382,7 +2373,6 @@ egy
 pár
 cipőt
 .
-''
 
 Alice
 tovább
@@ -3069,14 +3059,12 @@ tátja
 így
 rebeg
 :
-``
 Kis
 hal
 ,
 isten
 hozott
 !
-''
 
 -
 Tudom
@@ -3165,14 +3153,12 @@ hiába
 mondják
 majd
 :
-``
 Gyere
 föl
 már
 ,
 szívecském
 .
-''
 
 Én
 csak
@@ -3182,7 +3168,6 @@ s
 így
 szólok
 :
-``
 Mondják
 meg
 előbb
@@ -3224,7 +3209,6 @@ nem
 lesz
 belőlem
 .
-''
 
 De
 ó
@@ -3271,7 +3255,6 @@ fehér
 glaszékesztyűjét
 .
 
-``
 Hogy
 lehet
 ez
@@ -3289,7 +3272,6 @@ megint
 kisebb
 lettem
 !
-''
 
 Alice
 fölállt
@@ -3423,7 +3405,6 @@ az
 imént
 .
 
-``
 Egyre
 rosszabb
 lesz
@@ -3461,7 +3442,6 @@ ez
 igazán
 szörnyű
 .
-''
 
 Amíg
 ezt
@@ -3498,12 +3478,10 @@ a
 tengerbe
 .
 
-``
 Akkor
 vasúton
 megyek
 haza
-''
 -
 mondta
 magában
@@ -3585,7 +3563,6 @@ magas
 volt
 .
 
-``
 Bárcsak
 ne
 sírtam
@@ -3643,7 +3620,6 @@ minden
 olyan
 furcsa
 .
-''
 
 Ebben
 a
@@ -3810,7 +3786,6 @@ nyelvtanában
 ezt
 olvasta
 :
-``
 egér
 ,
 egeret
@@ -3822,7 +3797,6 @@ egérhez
 ó
 egér
 !
-''
 
 Az
 Egér
@@ -3847,7 +3821,6 @@ se
 szólt
 .
 
-``
 Talán
 nem
 tud
@@ -3871,7 +3844,6 @@ seregével
 jött
 át
 .
-''
 
 Bármilyen
 jól
@@ -4422,10 +4394,8 @@ sápadt
 volt
 .
 
-``
 Az
 izgatottságtól
-''
 -
 gondolta
 Alice
@@ -4947,9 +4917,7 @@ tudja
 mit
 jelent
 az
-``
 találni
-''
 ?
 
 -
@@ -5141,10 +5109,8 @@ elmosolyodott
 Néhány
 másik
 madár
-``
 viharos
 derültségre
-''
 fakadt
 .
 
@@ -5309,14 +5275,12 @@ Olyasmi
 ,
 hogy
 :
-``
 Vigyázz
 ,
 kész
 ,
 rajt
 !
-''
 
 nem
 volt
@@ -5869,7 +5833,6 @@ szólt
 a
 Kandúr
 :
-``
 Most
 beviszlek
 ,
@@ -5893,7 +5856,6 @@ pör
 mindent
 megér
 .
-''
 
 Az
 Egér
@@ -5901,13 +5863,11 @@ szólt
 a
 Kandúrnak
 :
-``
 Én
 nem
 engedek
 ily
 úrnak
-''
 ,
 s
 cincogott
@@ -5916,7 +5876,6 @@ néki
 síró
 hangon
 :
-``
 Mondd
 :
 ki
@@ -5924,9 +5883,7 @@ lesz
 a
 bíró
 ?
-''
 
-``
 Én
 leszek
 a
@@ -5940,7 +5897,6 @@ Megragadlak
 és
 bekaplak
 .
-''
 
 -
 Te
@@ -6827,7 +6783,6 @@ a
 kesztyűt
 .
 
-``
 De
 furcsa
 -
@@ -6850,7 +6805,6 @@ is
 parancsolgat
 nekem
 .
-''
 
 Alice
 elképzelte
@@ -6860,14 +6814,12 @@ lesz
 ez
 .
 
-``
 Alice
 ,
 siess
 ,
 sétálni
 megyünk
-''
 -
 szól
 majd
@@ -6875,7 +6827,6 @@ a
 dadája
 .
 
-``
 Mindjárt
 ,
 dadus
@@ -6918,7 +6869,6 @@ ha
 így
 parancsolgatna
 .
-''
 
 Benyitott
 egy
@@ -6999,7 +6949,6 @@ szájához
 emelte
 .
 
-``
 Ahányszor
 eszem
 vagy
@@ -7039,7 +6988,6 @@ ilyen
 icurka-picurka
 vagyok
 .
-''
 
 Hát
 csakugyan
@@ -7220,7 +7168,6 @@ kályhalyukba
 beszélt
 magában
 :
-``
 No
 ,
 most
@@ -7240,7 +7187,6 @@ mi
 lesz
 belőlem
 ?
-''
 
 Szerencséjére
 a
@@ -7285,7 +7231,6 @@ a
 szíve
 .
 
-``
 Mennyivel
 jobb
 volt
@@ -7446,7 +7391,6 @@ ez
 szörnyű
 lenne
 .
-''
 
 -
 Jaj
@@ -7635,14 +7579,12 @@ mászom
 be
 .
 
-``
 No
 ,
 ebből
 nem
 eszel
 !
-''
 
 -
 gondolta
@@ -7928,7 +7870,6 @@ az
 .
 
 -
-``
 Micsoda
 roppant
 üvegház
@@ -7969,7 +7910,6 @@ igazán
 nincs
 kedvem
 .
-''
 
 Várt
 egy
@@ -8158,7 +8098,6 @@ a
 kéményen
 .
 
-``
 Szóval
 ,
 úgy
@@ -8206,7 +8145,6 @@ rúgásra
 hagy
 helyet
 !
-''
 
 Alice
 ,
@@ -8253,11 +8191,9 @@ lába
 fölött
 .
 
-``
 Ez
 lesz
 Bill
-''
 -
 mondta
 magában
@@ -8356,11 +8292,9 @@ halkan
 nyöszörgött
 .
 
-``
 Ez
 biztosan
 Bill
-''
 -
 gondolta
 Alice
@@ -8468,7 +8402,6 @@ Alice
 ezt
 gondolta
 :
-``
 Vajon
 mit
 fognak
@@ -8486,7 +8419,6 @@ lebontják
 a
 háztetőt
 .
-''
 
 Egy-két
 perc
@@ -8512,14 +8444,12 @@ egy
 talicskával
 .
 
-``
 Mi
 lesz
 elég
 egy
 talicskával
 ?
-''
 
 -
 töprengett
@@ -8551,12 +8481,10 @@ is
 csapódott
 .
 
-``
 Ez
 mégiscsak
 sok
 !
-''
 
 -
 gondolta
@@ -8600,7 +8528,6 @@ Remek
 támadt
 .
 
-``
 Ha
 eszem
 ebből
@@ -8628,7 +8555,6 @@ kisebb
 leszek
 tőle
 .
-''
 
 Hát
 be
@@ -8722,7 +8648,6 @@ se
 bánthatta
 .
 
-``
 Most
 -
 mondotta
@@ -8762,7 +8687,6 @@ nem
 rossz
 terv
 .
-''
 
 Tervnek
 nem
@@ -10321,7 +10245,6 @@ pedig
 ezt
 gondolta
 :
-``
 Jaj
 ,
 milyen
@@ -10331,7 +10254,6 @@ ezek
 az
 állatok
 .
-''
 
 -
 Majd
@@ -11515,7 +11437,6 @@ méter
 magas
 .
 
-``
 Akárkié
 is
 ez
@@ -11539,7 +11460,6 @@ ilyen
 nagy
 lánytól
 .
-''
 
 Hát
 újra
@@ -11980,7 +11900,6 @@ vette
 tőle
 .
 
-``
 De
 talán
 nem
@@ -12010,7 +11929,6 @@ válaszolhatna
 a
 kérdésemre
 .
-''
 
 -
 Hogy
@@ -12264,11 +12182,9 @@ levest
 kavargatott
 .
 
-``
 Ezt
 ugyancsak
 megborsozták
-''
 -
 gondolta
 Alice
@@ -13195,14 +13111,12 @@ már
 nézni
 .
 
-``
 Lehet
 azonban
 ,
 hogy
 csak
 sírt
-''
 -
 gondolta
 Alice
@@ -13420,7 +13334,6 @@ kezdett
 mihelyt
 meglátta
 Alice-t.
-``
 Szelíd
 egy
 állat
@@ -13444,7 +13357,6 @@ sok
 foga
 van
 .
-''
 
 Ezért
 bizonyos
@@ -13480,12 +13392,10 @@ szélesebben
 vigyorgott
 .
 
-``
 Nini
 ,
 tetszik
 neki
-''
 -
 gondolta
 Alice
@@ -14127,7 +14037,6 @@ se
 volt
 .
 
-``
 Nahát
 -
 gondolta
@@ -14155,7 +14064,6 @@ még
 nem
 pipáltam
 .
-''
 
 Nem
 kellett
@@ -14241,7 +14149,6 @@ ház
 felé
 .
 
-``
 Könnyen
 lehet
 ,
@@ -14273,7 +14180,6 @@ Kalapost
 látogatom
 meg
 .
-''
 
 Hetedik
 fejezet
@@ -14328,7 +14234,6 @@ fölött
 beszélgetett
 .
 
-``
 Hű
 ,
 de
@@ -14354,7 +14259,6 @@ alszik
 nem
 érzi
 .
-''
 
 Az
 asztal
@@ -14562,13 +14466,11 @@ az
 között
 ?
 
-``
 Jaj
 ,
 de
 nagyszerű
 !
-''
 
 -
 gondolta
@@ -15587,7 +15489,6 @@ fölugrott
 elkiáltotta
 magát
 :
-``
 Ez
 sose
 vág
@@ -15607,7 +15508,6 @@ le
 a
 fejét
 .
-''
 
 -
 Borzasztó
@@ -16716,7 +16616,6 @@ a
 teáskannába
 .
 
-``
 Ezekhez
 aztán
 nem
@@ -16742,7 +16641,6 @@ ilyen
 bolond
 társaságban
 .
-''
 
 Amint
 ezt
@@ -17503,7 +17401,6 @@ szüntelenül
 bátorította
 magát
 :
-``
 Csak
 nem
 ijedek
@@ -17512,7 +17409,6 @@ egy
 csomó
 játékkártyától
 ?
-''
 
 -
 És
@@ -18529,7 +18425,6 @@ mint
 vigyorgás
 .
 
-``
 A
 Fakutya
 vigyorog
@@ -18544,7 +18439,6 @@ valaki
 akivel
 beszélgethetek
 .
-''
 
 -
 Na
@@ -18586,7 +18480,6 @@ akkor
 köszöntötte
 .
 
-``
 Addig
 pedig
 nem
@@ -18610,7 +18503,6 @@ Legalább
 az
 egyik
 .
-''
 
 A
 következő
@@ -19205,7 +19097,6 @@ helye
 volt
 .
 
-``
 Sebaj
 -
 gondolta
@@ -19217,7 +19108,6 @@ kapuk
 úgyis
 elszéledtek
 .
-''
 
 -
 S
@@ -19590,7 +19480,6 @@ nevezi
 nagymamájának
 .
 
-``
 Az
 előbb
 a
@@ -19707,7 +19596,6 @@ a
 cukor
 osztogatásában
 .
-''
 
 Alice
 közben
@@ -19935,12 +19823,10 @@ a
 kovácsa
 .
 
-``
 Hogy
 szereti
 a
 közmondásokat
-''
 -
 gondolta
 Alice
@@ -20188,7 +20074,6 @@ szerezni
 neked
 .
 
-``
 Szép
 kis
 öröm
@@ -20204,7 +20089,6 @@ nem
 nagyon
 örülnék
 neki
-''
 -
 gondolta
 Alice
@@ -20447,7 +20331,6 @@ lármázott
 és
 kiabált
 :
-``
 Üssétek
 le
 a
@@ -20459,7 +20342,6 @@ le
 a
 fejét
 !
-''
 
 Az
 elítélteket
@@ -20606,12 +20488,10 @@ Mindnyájatoknak
 megkegyelmezek
 .
 
-``
 Jaj
 ,
 hála
 istennek
-''
 -
 gondolta
 Alice
@@ -20812,12 +20692,10 @@ csak
 beszél
 velem
 :
-``
 No
 ,
 gyere
 !
-''
 
 -
 duzzogott
@@ -20835,7 +20713,6 @@ ballagott
 .
 
 -
-``
 Soha
 ennyit
 nem
@@ -20844,7 +20721,6 @@ még
 nekem
 életemben
 .
-''
 
 Nem
 kellett
@@ -21026,7 +20902,6 @@ szót
 se
 .
 
-``
 Vajon
 hogy
 akarja
@@ -21037,7 +20912,6 @@ el
 se
 kezdi
 ?
-''
 
 -
 gondolta
@@ -21078,9 +20952,7 @@ vijjogott
 velőtrázóan
 ,
 hogy
-``
 Krkrkr
-''
 ,
 s
 olykor
@@ -21101,10 +20973,8 @@ hogy
 megköszönje
 szépen
 az
-``
 érdekes
 élettörténetet
-''
 ,
 de
 arra
@@ -21657,12 +21527,10 @@ mindig
 azt
 hajtogatta
 :
-``
 Kár
 ,
 kár
 .
-''
 
 Kár
 érte
@@ -22834,12 +22702,10 @@ mindig
 hallgat
 .
 
-``
 Azért
 beszél
 ez
 annyit
-''
 -
 gondolta
 Alice
@@ -23266,7 +23132,6 @@ a
 Griffmadár
 .
 
-``
 Hogy
 parancsolgatnak
 nekem
@@ -23288,7 +23153,6 @@ Akár
 az
 iskolában
 .
-''
 
 De
 azért
@@ -23970,7 +23834,6 @@ a
 lepényre
 .
 
-``
 Csak
 már
 vége
@@ -23986,7 +23849,6 @@ felszolgálnák
 a
 frissítőket
 .
-''
 
 De
 hol
@@ -24039,7 +23901,6 @@ a
 nevét
 .
 
-``
 Ez
 a
 bíró
@@ -24055,7 +23916,6 @@ a
 nagy
 parókája
 .
-''
 
 Most
 egyébként
@@ -24082,7 +23942,6 @@ is
 volt
 .
 
-``
 Ott
 az
 esküdtek
@@ -24101,7 +23960,6 @@ a
 tizenkét
 esküdt
 .
-''
 
 Kénytelen
 volt
@@ -24254,12 +24112,10 @@ azt
 a
 palatáblájukra
 :
-``
 Jaj
 ,
 de
 maflák
-''
 ,
 sőt
 az
@@ -24274,15 +24130,12 @@ szomszédjától
 hogy
 ezt
 ,
-``
 mafla
-''
 két
 vagy
 három
 f-fel
 írják-e.
-``
 Na
 ,
 szép
@@ -24290,7 +24143,6 @@ kis
 irkafirka
 lesz
 ebből
-''
 -
 gondolta
 Alice
@@ -25326,10 +25178,8 @@ a
 kifejezés
 ,
 hogy
-``
 rendet
 teremtettek
-''
 .
 
 -
@@ -25359,21 +25209,17 @@ tárgyalások
 végén
 az
 elnök
-``
 az
 éljenzést
 és
 tetszésnyilvánítást
 elfojtotta
-''
 ,
 s
 a
 teremőrök
-``
 rendet
 teremtettek
-''
 ,
 de
 eddig
@@ -25458,7 +25304,6 @@ azonnal
 elfojtották
 .
 
-``
 No
 ,
 a
@@ -25481,7 +25326,6 @@ megy
 a
 dolog
 .
-''
 
 -
 Nem
@@ -25884,11 +25728,9 @@ mert
 eddig
 még
 nemigen
-``
 tisztázták
 az
 ügyet
-''
 .
 
 Képzeljétek
@@ -26101,7 +25943,6 @@ közben
 azt
 gondolta
 :
-``
 Se
 nem
 oszt
@@ -26126,7 +25967,6 @@ a
 tárgyalás
 menetén
 .
-''
 
 Mihelyt
 egy
@@ -26279,7 +26119,6 @@ magában
 halkan
 ismételgette
 :
-``
 Fontos
 ,
 nem
@@ -26289,7 +26128,6 @@ fontos
 ,
 nem
 fontos
-''
 ,
 mintha
 próbálgatná
@@ -26305,21 +26143,17 @@ esküdt
 ezt
 írta
 :
-``
 Fontos
 .
-''
 
 A
 másik
 meg
 ezt
 :
-``
 Nem
 fontos
 .
-''
 
 Alice
 jól
@@ -27111,7 +26945,6 @@ ezt
 a
 palatáblájukra
 :
-``
 Alice
 szerint
 a
@@ -27120,7 +26953,6 @@ nincs
 semmi
 értelme
 .
-''
 
 De
 azért
